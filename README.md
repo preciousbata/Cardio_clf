@@ -34,5 +34,4 @@ This project has essential folders such as:
 
 ## Helpful Links
   * [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/)
-  * Stackover Flow: For enquires on errors 
-  * Youtube
+ 
