@@ -1,0 +1,5 @@
+TRAINING_FILE = "../input/cardio_train.csv"
+MODEL_OUTPUT = "../models/"
+# LOAD_MODEL = "../models/clf_model_2.bin"
+LOAD_MODEL_2 = "../models/clf_model.pkl"
+LOG_FILES_TRAIN = "../Logs/training_log.log"
