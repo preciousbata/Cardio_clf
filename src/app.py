@@ -7,7 +7,7 @@ import pickle
 
 
 app = Flask(__name__, template_folder='../template', static_folder='../static')
-model = pickle.load(open('./models/clf_model.pkl', 'rb'))
+model = pickle.load(open('../models/clf_model.pkl', 'rb'))
 # model = pickle.load(open(config.LOAD_MODEL_2, 'rb'))
 
 
