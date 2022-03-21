@@ -1,1 +1,1 @@
-web: sh ./src/run.sh
+web: gunicorn --pythonpath src app.app
