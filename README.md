@@ -31,6 +31,10 @@ This project has essential folders such as:
   5. Click on the link to 'http://localhost:5000' to access the web page
   6. Input figures into user input spaces and click predict.
   7. If successful, a predicted values should be displayed below.
+  
+ ## Screenshot
+ [![Screenshot-15.png](https://i.postimg.cc/DzX3sNnt/Screenshot-15.png)](https://postimg.cc/f3DPQB3K)
+ [![Screenshot-16.png](https://i.postimg.cc/zBYZkkf3/Screenshot-16.png)](https://postimg.cc/ns2PFBBt)
 
 ## Helpful Links
   * [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/)
