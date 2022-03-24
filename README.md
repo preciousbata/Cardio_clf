@@ -3,12 +3,12 @@
 ## Project Overview
 
 This is an end-to-end web app aimed at predicting the probability of having a cardiovascular disease from user input.
-  * Deployed on heroku: [Project link](https://cardiopredict.azurewebsites.net/)
+  * Deployed on azure: [Project link](https://cardiopredict.azurewebsites.net/)
   
 ## Technologies Used 
   * Python as the programming language
   * Scikit Learn for machine learning models
-  * Heroku for cloud deployment
+  * Azure for cloud deployment
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ This project has essential folders such as:
   * Static: This folder contain css files, javascript files, images
   * Models: Contains trained models
 
-## Running the Project
+## Running the Project Locally
   1. Open the command prompt and navigate to project directory
   2. Install the necessary libraries and packages in the requirements file using the command----------> **pip -r requirements.txt**
   3. Change directory from the **main** folder into **src** folder by using the command---------------> **cd src**
