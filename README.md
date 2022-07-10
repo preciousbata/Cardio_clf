@@ -24,7 +24,7 @@ This project has essential folders such as:
   * Models: Contains trained models
 
 ## Running the Project Locally
-  1. Open the command prompt and navigate to project directory
+  1. Clone the repository
   2. Install the necessary libraries and packages in the requirements file using the command----------> **pip3 inatall -r requirements.txt**
   3. Change directory from the **main** folder into **src** folder by using the command---------------> **cd src**
   4. Once in the src folder, Run the command **python app.py**. The app will be hosted on your local machine on the default port 5000.
