@@ -3,7 +3,7 @@
 ## Project Overview
 
 This is an end-to-end web app aimed at predicting the probability of having a cardiovascular disease from user input.
-  * Deployed on azure: [Project link](https://cardiopredict.azurewebsites.net/)
+  
   
 ## Technologies Used 
   * Python as the programming language
