@@ -8,7 +8,7 @@ This is an end-to-end web app aimed at predicting the probability of having a ca
 ## Technologies Used 
   * Python as the programming language
   * Scikit Learn for machine learning models
-  * Azure for cloud deployment
+  * Heroku for cloud deployment
 
 ## Prerequisites
 
