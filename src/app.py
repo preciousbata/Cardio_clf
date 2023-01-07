@@ -1,6 +1,6 @@
 import os
 import numpy as np
-import config
+import utils.config as config
 from flask import Flask, request, jsonify, render_template,send_from_directory
 import pickle
 

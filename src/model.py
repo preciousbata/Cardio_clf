@@ -19,18 +19,15 @@ model_dict = {
     'XGBoost':XGBClassifier()
 }
 
-# model_list = [LogisticRegression(),RandomForestClassifier(),SVC(),KNeighborsClassifier(),CatBoostClassifier(),XGBClassifier()]
-# model_name = ['LogReg','RFC','SVC','KNN','Catboost','XGB']
-
 
 def model_train(df_train,target):
     """
-    This function loops over a dictionary of model instantiation to fit trianing data
+    This function loops over a dictionary of model instantiation to fit training data
 
     Parameters
     -----------
-    df_train: Training Data
-    target: Response
+    df_train: Training Dataset
+    target: Response 
     Scoring: Default evaluation metric is F1-score
     """
     for key, model_instantiation in model_dict.items():
