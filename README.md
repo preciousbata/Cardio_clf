@@ -4,7 +4,8 @@
 
 This is repository includes the  model training and creation script for predicting the probability of having a cardiovascular disease from user input.
 
-Live demo of the project was created using Flutter and can be found in the
+ UI of the project was created using Flutter
+ https://github.com/preciousbata/cardiovascular_predictor_ui
   
   
 ## Technologies Used 
